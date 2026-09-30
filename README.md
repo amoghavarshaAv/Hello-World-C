@@ -1,2 +1,6 @@
-# Hello-World-C
-My first C program
+# Hello World C Program
+My first C program created for GitHub.
+## How to Compile and Run
+```bash
+gcc hello.c -o hello
+./hello
